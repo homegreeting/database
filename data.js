@@ -1,3 +1,4 @@
 const database = {
-  image_sources: ["database/cliffs.jpg", "database/seaside.jpg", "database/volcano.jpg", "mountains.jpg"]
+  image_url: "https://homegreeting.github.io/database/",
+  image_sources: ["cliffs.jpg", "seaside.JPG", "volcano.jpg", "mountains.jpg"]
 }
